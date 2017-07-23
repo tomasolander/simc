@@ -15,6 +15,7 @@ moc_*.cpp
 *.vcxproj.user
 *.pdb
 *.opendb
+*.VC.db
 *.cmake
 *.un~
 *.swp
