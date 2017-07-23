@@ -3,9 +3,10 @@
 // Send questions to natehieter@gmail.com
 // ==========================================================================
 
+#include "simulationcraft.hpp"
+
 #include "sc_report.hpp"
 #include <stack>
-#include "simulationcraft.hpp"
 
 namespace
 {  // UNNAMED NAMESPACE ==========================================

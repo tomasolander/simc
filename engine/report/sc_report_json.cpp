@@ -3,9 +3,9 @@
 // Send questions to natehieter@gmail.com
 // ==========================================================================
 
+#include "simulationcraft.hpp"
 #include "sc_report.hpp"
 #include "interfaces/sc_js.hpp"
-#include "simulationcraft.hpp"
 
 #include "util/rapidjson/filewritestream.h"
 #include "util/rapidjson/document.h"

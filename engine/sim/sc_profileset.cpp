@@ -3,9 +3,10 @@
 // Send questions to natehieter@gmail.com
 // ==========================================================================
 
+#include "simulationcraft.hpp"
+
 #include <future>
 
-#include "simulationcraft.hpp"
 #include "sc_profileset.hpp"
 
 namespace profileset

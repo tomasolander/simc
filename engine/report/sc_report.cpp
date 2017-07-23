@@ -3,8 +3,8 @@
 // Send questions to natehieter@gmail.com
 // ==========================================================================
 
-#include "sc_report.hpp"
 #include "simulationcraft.hpp"
+#include "sc_report.hpp"
 
 // ==========================================================================
 // Report
